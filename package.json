@@ -1,0 +1,27 @@
+{
+  "name": "random-messages-fl",
+  "version": "1.0.1",
+  "description": "It provides some random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "npm"
+  ],
+  "author": "Felipe Andrés López <felipeandreslopez91@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeAndresLopez/random-messages-npm-pkg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FelipeAndresLopez/random-messages-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/FelipeAndresLopez/random-messages-npm-pkg#readme"
+}
