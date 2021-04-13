@@ -1,6 +1,6 @@
 {
-  "name": "random-messages-fl",
-  "version": "1.0.1",
+  "name": "random-messages-npm-pkg",
+  "version": "1.0.0",
   "description": "It provides some random messages",
   "main": "src/index.js",
   "scripts": {
